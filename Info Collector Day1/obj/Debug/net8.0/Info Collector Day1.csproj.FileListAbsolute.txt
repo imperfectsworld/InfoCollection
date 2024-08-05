@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\bin\Debug\net8.0\Info Collector Day1.exe
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\bin\Debug\net8.0\Info Collector Day1.deps.json
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\bin\Debug\net8.0\Info Collector Day1.runtimeconfig.json
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\bin\Debug\net8.0\Info Collector Day1.dll
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\bin\Debug\net8.0\Info Collector Day1.pdb
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.AssemblyInfo.cs
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.dll
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\refint\Info Collector Day1.dll
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.pdb
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\Info Collector Day1.genruntimeconfig.cache
+C:\Users\imper\source\repos\Info Collector Day1\Info Collector Day1\obj\Debug\net8.0\ref\Info Collector Day1.dll
